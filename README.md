@@ -1,7 +1,6 @@
 # 💫 About Me:
 ⭐️ Second-year Software Engineering student at Vilnius Tech with a strong interest in software development and problem-solving.
 
-🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) and ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) technologies
 
 
 ## 🌐 Socials:
