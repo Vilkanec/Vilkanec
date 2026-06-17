@@ -1,5 +1,5 @@
 # 💫 About Me
-Software Eng. Student @ Vilnius Tech | 🤖 AI Intern | 🛠 Problem Solver
+Software Eng. Student @ Vilnius Tech |  AI Intern | Automation | Problem Solver
 
 Currently cooking something special...
 
