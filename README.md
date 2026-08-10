@@ -1,6 +1,6 @@
 # About
 
-Software Engineering student at **Vilnius Tech** and founder of **Kognita IT**, a Lithuanian software company.
+Software Engineering student at **Vilnius Tech**, founder and director of **Kognita IT** — a Lithuanian software company.
 
 I work primarily as a project manager — scoping, planning and delivering client projects — with a focus on AI automation and application development.
 
