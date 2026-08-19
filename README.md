@@ -1,6 +1,6 @@
 # About
 
-Software Engineering student at **Vilnius Tech**.
+3rd-year Software Engineering student at **Vilnius Tech**.
 
 I work primarily as a project manager — scoping, planning and delivering client projects — with a focus on AI automation and application development.
 
